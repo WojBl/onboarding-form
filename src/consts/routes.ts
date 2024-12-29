@@ -1,0 +1,17 @@
+const HOME_PAGE_ROUTE = "/";
+const ABOUT_US_PAGE_ROUTE = "/about-us";
+const ONBOARDING_DASHBOARD_PAGE_ROUTE = "/onboarding-dashboard";
+const HOW_WE_WORK_PAGE_ROUTE = "/how-we-work";
+const WORKPLACE_GUIDELINES_PAGE_ROUTE = "/workplace-guidelines";
+const LEGAL_ASSESMENTS_PAGE_ROUTE = "/legal-assesments";
+const ABOUT_YOU_PAGE_ROUTE = "/about-you";
+
+export {
+  HOME_PAGE_ROUTE,
+  ABOUT_US_PAGE_ROUTE,
+  ONBOARDING_DASHBOARD_PAGE_ROUTE,
+  HOW_WE_WORK_PAGE_ROUTE,
+  WORKPLACE_GUIDELINES_PAGE_ROUTE,
+  LEGAL_ASSESMENTS_PAGE_ROUTE,
+  ABOUT_YOU_PAGE_ROUTE,
+};

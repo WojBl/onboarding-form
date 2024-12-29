@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main-blue-01: #1a2033;
+  --main-blue-02: #919bbb;
+  --main-blue-03: #EEF0F6;
+
+  --green-01: #c9e5c9;
+}
